@@ -131,3 +131,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 week3/apikey.txt
+names.txt
+weeks5-6/twitter_apikey.txt
